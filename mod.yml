@@ -1,0 +1,18 @@
+title: LETS GO METTS
+originalAuthor: Shananas
+assets:
+- name: remastered/obj/M_EX770.a.us/se/obj/se283
+  platform: pc
+  method: copy
+  source:
+  - name: se283.scd
+- name: remastered/obj/M_EX770_RAW.a.us/se/obj/se283
+  platform: pc
+  method: copy
+  source:
+  - name: se283.scd
+- name: remastered/obj/M_EX770_TR.a.us/se/obj/se283
+  platform: pc
+  method: copy
+  source:
+  - name: se283.scd
